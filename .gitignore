@@ -130,3 +130,10 @@ dmypy.json
 
 # temp file
 temp.txt
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/tasks_example.iml
+/.idea/vcs.xml
