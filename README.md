@@ -1,6 +1,6 @@
 #  Tasks example
 
-Simple implementation asynchronous tasks example  
+Simple implementation asynchronous tasks
 (python, [Celery](https://docs.celeryq.dev/en/stable/), [RabbitMQ](https://www.rabbitmq.com/documentation.html), [Redis](https://redis.io/docs/))
   
 based on https://github.com/vjanz/python-asynchronous-tasks
